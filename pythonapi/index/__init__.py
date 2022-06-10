@@ -1,0 +1,1 @@
+from .index import index_caption, search_caption
